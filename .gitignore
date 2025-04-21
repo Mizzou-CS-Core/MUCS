@@ -1,1 +1,4 @@
 .venv/*
+MUCSMake/config.toml
+MUCSMake/lab10.c
+MUCSMake/1050test/lab8.c
